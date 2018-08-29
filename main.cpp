@@ -1,4 +1,5 @@
 #include "vecsum.h"
+#include <iostream>
 using namespace std;
 
 int main(){
